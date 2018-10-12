@@ -4,7 +4,7 @@ if x > 2:
 else:
     print('Smaller')
 print('All done')
-#####################
+# the same with else keyword
 if x > 2:
     print('bigger')
 if x <= 2:

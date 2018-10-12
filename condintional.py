@@ -1,4 +1,5 @@
-x = 6
+# try to run with other values: 4 and 6  and see the output
+x = 5
 if x == 5:
     print('Equals 5')
 if x > 4:

@@ -1,3 +1,4 @@
+# while loop
 i = 0  # assignment
 while i < 5:
     print(i)

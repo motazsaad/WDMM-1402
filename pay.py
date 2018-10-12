@@ -1,3 +1,4 @@
+# payment for freelancers
 hours1 = 13
 hours2 = 23
 rate1 = 10.5

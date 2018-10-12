@@ -1,3 +1,4 @@
+# multi way if
 x = int(input('enter number: '))
 if x < 2:
     print('small')

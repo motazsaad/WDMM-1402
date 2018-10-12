@@ -1,3 +1,4 @@
-name = input('enter your name: ')  # call function and assignment
+# call function and assignment
+name = input('enter your name: ')
 print('welcome ' + name + ' :)')  # concat
 print('welcome', name, ':)')
