@@ -2,8 +2,8 @@
 x = int(input('enter number: '))
 if x < 2:
     print('small')
-elif x < 10:
+elif x < 10:  # else mean x >=2
     print('Medium')
-else:
+else:  # else mean x >= 10
     print('LARGE')
 print('All done')
