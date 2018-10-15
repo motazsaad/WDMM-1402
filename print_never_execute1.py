@@ -8,4 +8,4 @@ if x < 2:
 elif x >= 2:
     print('Two or more')
 else:
-    print('Something else')
+    print('Something else')  # will never execute

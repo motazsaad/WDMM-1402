@@ -8,6 +8,6 @@ if x < 2:
 elif x < 20:
     print('Below 20')
 elif x < 10:
-    print('Below 10')
+    print('Below 10')  # will never execute
 else:
     print('Something else')
