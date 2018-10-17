@@ -1,3 +1,9 @@
+'''
+write a program that asks the user to enter two
+numbers and the operator (*, /), and compute the result
+according the operator. You have to handle error
+in user's input
+'''
 try:
     mark = int(input('enter mark: '))
 except:

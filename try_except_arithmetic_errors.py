@@ -1,3 +1,4 @@
+# handle arithmetic errors (division by zero)
 n1 = int(input('enter 1st number: '))
 n2 = int(input('enter 2nd number: '))
 op = input('enter operator: ')
