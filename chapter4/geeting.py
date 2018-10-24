@@ -8,11 +8,11 @@ def greeting(name, lang):
     if lang == 'ar':
         print('مرحباً', name)
     elif lang == 'en':
-        print('welcome', name)
+        print('hello', name)
     elif lang == 'es':
         print('hola', name)
     elif lang == 'tr':
-        print('merhaba', name)
+        print('merheba', name)
     elif lang == 'fr':
         print('bonjour', name)
     elif lang == 'pt':
