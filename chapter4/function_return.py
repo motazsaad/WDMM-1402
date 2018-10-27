@@ -7,7 +7,7 @@ def add2(n1, n2):  # function return a value
     return n1 + n2
 
 
-x = add1(2, 4)
+x = add1(2, 4)  # this function does not return any thing
 print('value of x:', x)  # output: x = None
 add2(3, 4)  # no output
 add2(4, 9)  # no output
