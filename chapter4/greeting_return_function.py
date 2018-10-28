@@ -6,19 +6,19 @@ Note: use return function
 
 
 def greeting(lang):
-    if lang == 'ar':
+    if lang == 'ar':  # Arabic
         return 'مرحبا'
-    elif lang == 'en':
+    elif lang == 'en':  # English
         return 'hello'
-    elif lang == 'es':
+    elif lang == 'es':  # Español
         return 'hola'
-    elif lang == 'tr':
+    elif lang == 'tr':  # Turkish
         return 'merheba'
-    elif lang == 'fr':
+    elif lang == 'fr':  # French
         return 'bonjour'
-    elif lang == 'pt':
+    elif lang == 'pt':  # Portuguese
         return 'Olá'
-    else:
+    else:  # English
         return 'hello'
 
 

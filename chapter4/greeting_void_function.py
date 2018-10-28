@@ -5,19 +5,19 @@ Arabic, English, Turkish, Spanish, French, portuguese
 
 
 def greeting(name, lang):
-    if lang == 'ar':
+    if lang == 'ar':  # Arabic
         print('مرحباً', name)
-    elif lang == 'en':
+    elif lang == 'en':  # English
         print('hello', name)
-    elif lang == 'es':
+    elif lang == 'es':  # Español
         print('hola', name)
-    elif lang == 'tr':
+    elif lang == 'tr':  # Turkish
         print('merheba', name)
-    elif lang == 'fr':
+    elif lang == 'fr':  # French
         print('bonjour', name)
-    elif lang == 'pt':
+    elif lang == 'pt':  # Portuguese
         print('Olá', name)
-    else:
+    else:  # English
         print('hello', name)
 
 
