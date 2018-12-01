@@ -5,7 +5,7 @@ fruit = 'banana'
 for i in range(len(fruit)):
     print(i, fruit[i])
 print('-----------------------')
-# method 2: using an iterating variable (letter)
+# method 2: using an iteration variable (letter)
 for letter in fruit:
     print(letter)
 print('-----------------------')

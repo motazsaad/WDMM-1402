@@ -1,5 +1,4 @@
 # count a in banana
-
 word = 'banana'
 count = 0
 for letter in word:
