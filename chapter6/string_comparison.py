@@ -1,10 +1,10 @@
 # string comparison (alphabetic order)
 
-word = input('enter a word: ')
-
-if word < 'banana':
-    print('Your word, ' + word + ', comes before banana.')
-elif word > 'banana':
-    print('Your word, ' + word + ', comes after banana.')
+word1 = 'banana'
+word2 = input('enter a word: ')
+if word2 > word1:
+    print(word2, 'is after', word1)
+elif word2 < word1:
+    print(word2, 'is before', word1)
 else:
-    print('All right, bananas.')
+    print(word2, 'is the same', word1)
