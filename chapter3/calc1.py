@@ -1,6 +1,6 @@
 '''
 write a program that asks the user to enter two
-numbers and the operator (+, -), and compute the result
+numbers and the operator (*, /), and compute the result
 according the operator.
 '''
 number1 = float(input('enter 1st number:'))
