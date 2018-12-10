@@ -1,3 +1,8 @@
+'''
+اكتب برنامج لعد الكلمات في نص بحيث تبدأ بحرف m وتنتهي بحرف متحرك (a e i o u ) سواء كان الحرف كبير ام صغير
+
+'''
+
 text = ''' Hi , my name is Ahmed , and 
 I like banana , Orange , 
 and apple fruits - but I do not like 
