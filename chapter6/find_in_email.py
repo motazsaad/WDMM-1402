@@ -6,7 +6,7 @@ write a program to extract the following information:
 '''
 
 emails = ['From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008',
-          'From msaad@iugaza.edu.ps Sat Jan  5 09:14:12 2018',
+          'From msaad@iugaza.edu.ps Sat Jan  5 09:14:12 2017',
           'From motaz@google.com Sat Dec  11 09:14:11 2018']
 for email in emails:
     at_pos = email.find('@')
