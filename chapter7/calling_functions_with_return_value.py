@@ -1,3 +1,4 @@
+# define the function
 def is_vowel(word):
     vowels = 'aeiouAEIOU'
     return word[0] in vowels
